@@ -4,6 +4,7 @@
 This test checks that the main body of text content on a page contrasts sufficiently with the background, gradient or image behind it.
 
 
+
 ## Background
 
 - [Understanding SC 1.4.3](https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140311/visual-audio-contrast-contrast.html)
@@ -26,6 +27,7 @@ This test checks that the main body of text content on a page contrasts sufficie
 | Test environment  | DOM + CSS, Rendered page
 | Test Subject      | Web page state
 | User profile      | Requires sight
+
 
 
 ## Test procedure
