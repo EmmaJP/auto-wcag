@@ -20,7 +20,9 @@ This rule checks that images are given a description, and that the description g
 
 ## Background
 
--
+- https://www.w3.org/WAI/tutorials/images/informative/
+- https://www.w3.org/TR/WCAG20-TECHS/G94.html
+- https://www.w3.org/TR/WCAG20-TECHS/H37.html
 
 ## Assumptions
 
